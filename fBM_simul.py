@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 18 16:50:13 2024
-
-@author: jvilp
-"""
-
 from tqdm import tqdm
 import numpy.typing as npt
 import numpy as np
